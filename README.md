@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepakshi I
 - ✨ Microsoft Technology Associate
 - 👀 I’m interested in Mobile Application Development and UI/UX designing
-- 🌱 I’m currently learning Python and Data Analytics
+- 🌱 I’m currently learning Python
 - 📫 www.linkedin.com/in/deepakshi-i
 
 <!---
