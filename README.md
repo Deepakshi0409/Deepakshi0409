@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Deepakshi I
-- ✨ Microsoft Technology Associate
-- 👀 I’m interested in Mobile Application Development and UI/UX designing
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Deepakshi Indresh
+- 👀 I’m interested in Data Science, Data Analysis, Machine Learning, Deep Learning, NLP and more
+- 🌱 I’m currently pursuing Master's in Data Science from Illinois Institute of Technology, Chicago
 - 📫 www.linkedin.com/in/deepakshi-i
 
 <!---
