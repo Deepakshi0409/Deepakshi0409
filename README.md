@@ -1,87 +1,58 @@
 # 👋 Hi there! I'm Deepakshi Indresh
 
-🎓 I'm an aspiring data scientist currently pursuing my Master's at **Illinois Institute of Technology**, passionate about transforming raw data into powerful business insights.
+🎓 Master of Data Science candidate at **Illinois Institute of Technology**, passionate about transforming raw data into powerful business insights.
 
-🔍 With hands-on experience from multiple data analyst internships and academic projects, I specialize in building predictive models, data pipelines, and interactive dashboards. I thrive in fast-paced environments where I can combine my technical skills in **Python, SQL, and machine learning** with my business understanding to solve real-world problems.
-
-Whether it's building a scalable customer segmentation framework, optimizing algorithms for operational efficiency, or visualizing global mortality trends, I believe in **data-backed storytelling that drives impact**.
-
-I'm actively seeking **data science and analytics opportunities** where I can continue learning, contributing, and innovating.
-
-Let's connect and build something meaningful with data!
+As a budding **Data Scientist and Analyst**, I thrive on solving real-world problems using **statistical modeling, machine learning, and data storytelling**. From building predictive models to creating interactive dashboards, I bridge the gap between data and decisions.
 
 ---
 
-<h3 align="center">🛠️ Tools & Technologies</h3>
+## 🛠️ Tech & Tools I Work With
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
-</p>
-
-<p align="center">
-  <!-- ML & Data Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="50"/>
-</p>
-
-<p align="center">
-  <!-- Visualization -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.svg" width="70"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="50"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="50"/>
-</p>
-
-<p align="center">
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-apache-cassandra-1-1174980.png" width="50"/>
-</p>
-
-<p align="center">
-  <!-- Big Data & Cloud -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_Logo.png" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Snowflake_Logo.svg/512px-Snowflake_Logo.svg.png" width="50"/>
-</p>
+### 👩‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-0271C1?style=for-the-badge&logo=sas&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
 ---
 
-<h3 align="center">📬 Let's Connect</h3>
-
-<p align="center">
-  <a href="mailto:deepakshi.deeps@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/deepakshi-i/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <!-- Optional: Add GitHub profile link -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+### 📊 Data Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-⭐ **Thank you for visiting my GitHub profile!**
+### 🤖 Machine Learning & Libraries
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+---
 
+### 🧵 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<!---
-Deepakshi0409/Deepakshi0409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### ☁️ Cloud & Big Data
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+
+---
+
+📬 **Let’s connect** → [LinkedIn](https://www.linkedin.com/in/deepakshi-i/) | [Email](mailto:deepakshi.deeps@gmail.com)
+
+---
+
