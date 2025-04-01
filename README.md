@@ -67,10 +67,14 @@ I’m passionate about using data to solve real-world problems and support impac
   <!-- Big Data -->
   <a href="https://hadoop.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" height="40" alt="Hadoop"/></a>
   <a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="40" alt="Spark"/></a>
-  <a href="https://hive.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Apache_Hive_logo.svg" height="40" alt="Hive"/></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Apache_kafka.svg" height="40" alt="Kafka"/></a>
-  <a href="https://www.snowflake.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/4/4b/Snowflake_Logo.svg" height="40" alt="Snowflake"/></a>
-
+<a href="https://hive.apache.org/" target="_blank">
+  <img src="hive.png" alt="Apache Hive" height="80"/>
+</a> <a href="https://kafka.apache.org/" target="_blank">
+  <img src="kafka.png" alt="Apache Kafka" height="80"/>
+</a>
+<a href="https://www.snowflake.com/" target="_blank">
+  <img src="snowflake.png" alt="Snowflake" height="80"/>
+</a>
   <br><br>
 
   <!-- Cloud & DevOps -->
