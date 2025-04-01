@@ -62,7 +62,7 @@ With hands-on experience in and across **diverse domains**, I bring a unique ble
   <a href="https://hadoop.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" height="60" alt="Hadoop"/></a>
   <a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="60" alt="Spark"/></a>
   <a href="https://hive.apache.org/" target="_blank"><img src="hive.png" alt="Apache Hive" height="60"/></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img src="kafka.png" alt="Apache Kafka" height="60"/></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img src="kafka.png" alt="Apache Kafka" height="90"/></a>
   <a href="https://www.snowflake.com/" target="_blank"><img src="snowflake.png" alt="Snowflake" height="60"/></a>
 
   <br><br>
