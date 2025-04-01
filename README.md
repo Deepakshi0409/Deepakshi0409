@@ -16,60 +16,66 @@ With hands-on experience in and across **diverse domains**, I bring a unique ble
 <div align="center">
 
   <!-- Row 1 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" alt="R"/>
-  <img src="SQL.png" height="50" alt="SQL"/>
-  <img src="SAS.png" height="50" alt="SAS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="50" alt="Scala"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/></a>
+  <a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" alt="R"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="SQL.png" height="50" alt="SQL"/></a>
+  <a href="https://www.sas.com/" target="_blank"><img src="SAS.png" height="50" alt="SAS"/></a>
+  <a href="https://www.scala-lang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="50" alt="Scala"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/></a>
+
+  <br>
 
   <!-- Row 2 -->
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="50" alt="Excel"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"><img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" height="50" alt="PowerPoint"/></a>
+  <a href="https://outlook.live.com/" target="_blank"><img src="https://img.icons8.com/color/48/microsoft-outlook-2019--v1.png" height="50" alt="Outlook"/></a>
+  <a href="https://www.tableau.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="50" alt="Tableau"/></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/power-bi.png" height="50" alt="Power BI"/></a>
+
   <br>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="50" alt="Excel"/>
-  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" height="50" alt="PowerPoint"/>
-  <img src="https://img.icons8.com/color/48/microsoft-outlook-2019--v1.png" height="50" alt="Outlook"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="50" alt="Tableau"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="50" alt="Power BI"/>
 
   <!-- Row 3 -->
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" alt="Scikit-learn"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="PyTorch"/></a>
+  <a href="https://keras.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="50" alt="Keras"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="50" alt="Matplotlib"/></a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="50" alt="Matlab"/></a>
+
   <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" alt="Scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="PyTorch"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="50" alt="Keras"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="50" alt="Matplotlib"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="50" alt="Matlab"/>
 
   <!-- Row 4 -->
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/></a>
+  <a href="https://www.oracle.com/database/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" alt="Oracle"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB"/></a>
+  <a href="https://cassandra.apache.org/" target="_blank"><img src="cassandra.png" height="50" alt="Cassandra"/></a>
+
   <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" alt="Oracle"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB"/>
-  <img src="cassandra.png" height="50" alt="Cassandra"/>
 
   <!-- Row 5 -->
+  <a href="https://hadoop.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" height="50" alt="Hadoop"/></a>
+  <a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="50" alt="Spark"/></a>
+  <a href="https://hive.apache.org/" target="_blank"><img src="hive.png" height="50" alt="Hive"/></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img src="kafka.png" height="50" alt="Kafka"/></a>
+  <a href="https://www.snowflake.com/" target="_blank"><img src="snowflake.png" height="50" alt="Snowflake"/></a>
+
   <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" height="50" alt="Hadoop"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="50" alt="Spark"/>
-  <img src="hive.png" height="50" alt="Hive"/>
-  <img src="kafka.png" height="50" alt="Kafka"/>
-  <img src="snowflake.png" height="50" alt="Snowflake"/>
 
   <!-- Row 6 -->
-  <br>
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="50" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="GCP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" height="50" alt="SAP"/>
-  <img src="agile.webp" height="50" alt="Agile"/>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="50" alt="AWS"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="Azure"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="GCP"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/></a>
+  <a href="https://www.sap.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" height="50" alt="SAP"/></a>
+  <a href="https://www.atlassian.com/agile" target="_blank"><img src="agile.webp" height="50" alt="Agile"/></a>
 
 </div>
+
 
 ## 🤝 Connect With Me
 
