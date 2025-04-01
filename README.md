@@ -60,7 +60,7 @@ I’m passionate about using data to solve real-world problems and support impac
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/></a>
 <a href="https://cassandra.apache.org/" target="_blank">
-  <img src="cassandra.svg" alt="Cassandra" height="80"/>
+  <img src="cassandra.png" alt="Cassandra" height="80"/>
 </a>
   <br><br>
 
