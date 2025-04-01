@@ -73,7 +73,7 @@ With hands-on experience in and across **diverse domains**, I bring a unique ble
   <a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="GCP"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git"/></a>
   <a href="https://www.sap.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" height="60" alt="SAP"/></a>
-  <a href="https://www.atlassian.com/agile" target="_blank"><img src="agile.webp" alt="Agile Methodology" height="60"/></a>
+  <a href="https://www.atlassian.com/agile" target="_blank"><img src="agile.webp" alt="Agile Methodology" height="80"/></a>
 
 </p>
 
