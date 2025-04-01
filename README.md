@@ -24,7 +24,7 @@ I’m passionate about using data to solve real-world problems and support impac
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/></a>
   <a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/sql.png" height="40" alt="SQL"/></a>
-  <a href="https://www.sas.com/" target="_blank"><img src="[https://upload.wikimedia.org/wikipedia/commons/6/64/SAS_logo_horiz.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASAS_logo_horiz.svg&psig=AOvVaw23RZrvkQXMs1GAlr8Nhze_&ust=1743570817699000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjImsyJtowDFQAAAAAdAAAAABAE)" height="40" alt="SAS"/></a>
+  <a href="https://www.sas.com/" target="_blank"><img src="C:\Users\deepa\Downloads\SAS_logo_horiz.svg.png" height="40" alt="SAS"/></a>
   <a href="https://www.scala-lang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" alt="Scala"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/></a>
