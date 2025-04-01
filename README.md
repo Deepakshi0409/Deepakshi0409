@@ -9,7 +9,7 @@
       </p>
     </td>
     <td>
-      <img src="Working chart (1).gif" alt="Deepakshi Avatar" width="200"/>
+      <img src="Working chart.gif" alt="Deepakshi Avatar" width="200"/>
     </td>
   </tr>
 </table>
