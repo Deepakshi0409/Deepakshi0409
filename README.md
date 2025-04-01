@@ -4,11 +4,12 @@
 
 ---
 
-## 👩‍💻 About Me
-I’m currently pursuing my Master’s in Data Science at Illinois Institute of Technology, Chicago, where I’ve been immersed in advanced coursework. I’m passionate about turning complex datasets into meaningful insights that solve real-world problems and fuel strategic decision-making.
+## 👩‍💻 About Me  
+I’m currently pursuing my **Master’s in Data Science** at **Illinois Institute of Technology, Chicago**, where I’ve been immersed in **advanced coursework**. I’m passionate about turning **complex datasets** into **meaningful insights** that solve **real-world problems** and fuel **strategic decision-making**.  
+  
+🔍 I’m actively seeking **Data Scientist** and **Data Analyst** roles where I can apply my strong foundation in **programming**, **analytics**, and **data storytelling** to impact **business outcomes**.  
+With hands-on experience in and across **diverse domains**, I bring a unique blend of **academic rigor** and **real-world application**. I thrive in **fast-paced**, **cross-functional environments** and am driven by **curiosity**, **innovation**, and a deep commitment to **continuous learning**.
 
-🔍 I’m actively seeking Data Scientist and Data Analyst roles where I can apply my strong foundation in programming, analytics, and data storytelling to impact business outcomes.
-With hands-on experience in and across diverse domains, I bring a unique blend of academic rigor and real-world application. I thrive in fast-paced, cross-functional environments and am driven by curiosity, innovation, and a deep commitment to continuous learning.
 ---
 
 ## 🛠️ Languages, Tools & Technologies
