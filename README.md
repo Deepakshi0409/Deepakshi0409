@@ -1,18 +1,15 @@
-<table>
-  <tr>
-    <td>
-      <h1>👋 Hi there, I’m Deepakshi Indresh!</h1>
-      <p>
-        🎓 Graduate Student &nbsp; | &nbsp;
-        📊 Aspiring Data Scientist & Data Analyst &nbsp; | &nbsp;
-        🌐 USA
-      </p>
-    </td>
-    <td>
-      <img src="image.png" alt="Deepakshi Avatar" width="200"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    <h1>👋 Hi there, I’m Deepakshi Indresh!</h1>
+    <p>
+      🎓 Graduate Student &nbsp; | &nbsp;
+      📊 Aspiring Data Scientist & Data Analyst &nbsp; | &nbsp;
+      🌐 USA
+    </p>
+  </div>
+  <img src="image.png" alt="Deepakshi Illustration" width="180"/>
+</div>
+
 
 
 ---
