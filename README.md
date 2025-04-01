@@ -23,7 +23,7 @@ I’m passionate about using data to solve real-world problems and support impac
   <!-- Programming Languages -->
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/></a>
   <a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/sql.png" height="40" alt="SQL"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="SQL.png" height="40" alt="SQL"/></a>
 <a href="https://www.sas.com/" target="_blank">
   <img src="SAS.png" alt="SAS" height="80"/>
 </a>  <a href="https://www.scala-lang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" alt="Scala"/></a>
