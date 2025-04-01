@@ -11,7 +11,7 @@ I’m currently pursuing my **Master’s in Data Science** at **Illinois Institu
 With hands-on experience in and across **diverse domains**, I bring a unique blend of **academic rigor** and **real-world application**. I thrive in **fast-paced**, **cross-functional environments** and am driven by **curiosity**, **innovation**, and a deep commitment to **continuous learning**.
 
 ---
-<h2 align="center">🛠️ Languages, Tools & Technologies</h2>
+<h2>🛠️ Languages, Tools & Technologies</h2>
 
 <div align="center">
 
