@@ -78,7 +78,7 @@ I’m passionate about using data to solve real-world problems and support impac
   <a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/></a>
   <a href="https://www.sap.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" height="40" alt="SAP"/></a>
-  <a href="https://www.atlassian.com/agile" target="_blank"> <img src="agile.webp" alt="Agile Methodology" height="40"/></a>
+  <a href="https://www.atlassian.com/agile" target="_blank"> <img src="agile.webp" alt="Agile Methodology" width="100" height="100"/> </a>
 </p>
 ---
 
