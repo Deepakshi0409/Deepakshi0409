@@ -24,7 +24,7 @@ I’m passionate about using data to solve real-world problems and support impac
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/></a>
   <a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/sql.png" height="40" alt="SQL"/></a>
-  <a href="https://www.sas.com/" target="_blank"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANwAAAAoCAMAAAA2j8R9AAABQFBMVEX///8AAADd3d2vr6/f39/09PTo6OjDw8PQ0NCjo6PZ2dnb29v4+Pjb29vY2NjT09PT09P6+vrR0dG2trbS0tLn5+ehob+5ubn4+PjFxcXY2NjS0tLw8PDi4uL6+vrs7Ozq6urR0dHe3t7n5+fX19fb29vAwMCOjo6Hh4eAgICwsLDY2NiOjo6IiIh3d3eFhYW/v7/BwcHb29vExMTY2Njj4+Pb29vGxsbl5eWRkZGSkpK7u7tOTk5SUlLJyclmZmYWFhZHR0dWVlY3NzbW1tYOjo5paWk9PT1lZWV5eXlVVVWiop9bAAACGklEQVRoge2a6XKiMAxFF5CIC8AY2MKCUIqCMqKH///fEZxraQST3zPWmtnZnHO+apJRvU81mUwmk0mk0mk0mk0mk8nwCf3ugSE5hDHRyAG7z0Dk4i2pxUBW5k9TrVEHj9cQ6GVk0ePRpQ2lIQG5E0oEKilx8jTMS4PV+H4LGFbAbx5UlRfClVFo0L9d/vgUwWQ7QJH6MKlMGMXjc2V2TCZpu4y+YPBk6bhNAy6Slz8pEHpYZ5dRZTUKC/yfVVRhtHGLUQgxJ65tVRkKkJ6FkEVVSHB0h7DiRtxo05YHR5AGd1DBEjsGQcuo41KiIYb4mUtHGSHWgoa0KHrhBtqltZlqOktcT/FOZguJK8q7GSvWzyFiMVN7qpMQX8DYRj5S+7bp2yy82mQy+dx74eGKP7ZKYZB2nfUZHktcGZGq7TWKVK74nld5uhNli3mN9pyLFu+vPghEdtW1jef+rCh/fYqlxkXzD6mvkD8kX+QvlOb5T9Uu7V+yt+jz0qzQ2bOVsLhxUmWn05W95rbXYdWeY/YZhr7cC2fp4LKPdLSh/fMfcj4bbtoEtPDPf1SxMd8kNP1zvZK5f2jSRr5C/YJwAAAABJRU5ErkJggg==" height="40" alt="SAS"/>
+  <a href="https://www.sas.com/" target="_blank"><img src=" height="40" alt="SAS"/>
 </a>
   <a href="https://www.scala-lang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" alt="Scala"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/></a>
@@ -59,8 +59,9 @@ I’m passionate about using data to solve real-world problems and support impac
   <a href="https://www.oracle.com/database/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/></a>
-  <a href="https://cassandra.apache.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/apache-cassandra.svg" height="40" alt="Cassandra"/></a>
-
+<a href="https://cassandra.apache.org/" target="_blank">
+  <img src="cassandra.svg" alt="Cassandra" height="80"/>
+</a>
   <br><br>
 
   <!-- Big Data -->
