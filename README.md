@@ -61,7 +61,7 @@ With hands-on experience in and across **diverse domains**, I bring a unique ble
   <a href="https://hadoop.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" height="50" alt="Hadoop"/></a>
   <a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="50" alt="Spark"/></a>
   <a href="https://hive.apache.org/" target="_blank"><img src="hive.png" height="50" alt="Hive"/></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img src="kafka.png" height="50" alt="Kafka"/></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img src="kafka.png" height="80" alt="Kafka"/></a>
   <a href="https://www.snowflake.com/" target="_blank"><img src="snowflake.png" height="50" alt="Snowflake"/></a>
 
   <br>
@@ -72,7 +72,7 @@ With hands-on experience in and across **diverse domains**, I bring a unique ble
   <a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="GCP"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/></a>
   <a href="https://www.sap.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" height="50" alt="SAP"/></a>
-  <a href="https://www.atlassian.com/agile" target="_blank"><img src="agile.webp" height="50" alt="Agile"/></a>
+  <a href="https://www.atlassian.com/agile" target="_blank"><img src="agile.webp" height="90" alt="Agile"/></a>
 
 </div>
 
