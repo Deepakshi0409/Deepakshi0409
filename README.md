@@ -9,7 +9,7 @@
       </p>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="Working gif" width="200"/>
+      <img src="Working chart.gif" alt="Deepakshi Avatar" width="200"/>
     </td>
   </tr>
 </table>
